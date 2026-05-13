@@ -2,6 +2,8 @@
 
 A professional, responsive, and offline-first Expense Tracker application built with Next.js 15, Tailwind CSS, and Framer Motion. This project was developed as part of a web developer intern assignment for Marketing Mojito.
 
+Deployed link: https://cheery-dragon-141c3c.netlify.app/
+
 ![Expense Tracker Mockup](https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1200&h=400)
 
 ## ✨ Features
@@ -67,4 +69,4 @@ This project was created for the Marketing Mojito internship assignment. All rig
 
 ---
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Rishav Goswami
